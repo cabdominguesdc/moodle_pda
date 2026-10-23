@@ -1,5 +1,5 @@
 ARG ARCH=
-FROM ${ARCH}erseco/alpine-php-webserver:latest-php84
+FROM ${ARCH}erseco/alpine-php-webserver:latest-php83
 
 
 LABEL maintainer="Carlos Domingues - carlos.domingues@datacolab.pt"
